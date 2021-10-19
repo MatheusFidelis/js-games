@@ -1,0 +1,9 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+canvas {
+  display: block;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Soccer_field_-_empty.svg/1024px-Soccer_field_-_empty.svg.png");
+}
